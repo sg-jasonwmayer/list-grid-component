@@ -9,7 +9,7 @@
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "simple-react-tooltip": "^3.2.3"
   },
   "scripts": {
